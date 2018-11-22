@@ -5,7 +5,7 @@ Site Scarf is a way to convert your favorite website into a web app.
 
 ------
 
-#### (1) What to add your HTML Headers
+#### (1) What to add to your HTML Headers
 
 ```html
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -36,7 +36,7 @@ The sixth line sets the color of the URL bar in chrome.
 
 `<meta name="theme-color" content="#ffffff"></meta>`
 
-The seventh and eighth makes the website act like a website when a user pins it to their home screen.
+The seventh and eighth lines make the website act like a website when a user pins it to their home screen.
 
 `<meta content="yes" name="apple-mobile-web-app-capable">`
 
@@ -65,7 +65,7 @@ The seventh and eighth makes the website act like a website when a user pins it 
 }
 ```
 
-This file is a lot more self explanitory. Just make sure to include "display": "standalone".
+This file is a lot more read-able. Just make sure to include "display": "standalone".
 
 ------
 
@@ -85,13 +85,13 @@ It s file called browserconfig.html.
 </browserconfig>
 ```
 
-Pretty clear too, this just lets you pin a website to your homescreen with Edge.
+Pretty clear too, this just lets you pin a website to your homescreen with Microsoft Edge (for the two people on your site who actually use it).
 
 ------
 
 ### (4) And now, the images.
 
-Open your photo editor of your choice, and replace all of the files in the folder.
+Open your photo editor of your choice and replace all of the files in the folder.
 
 android-chrome-192x192.png
 
