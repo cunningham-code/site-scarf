@@ -1,5 +1,5 @@
 # Site Scarf
-Site Scarf is a way to your favorite website and make it a web app you can pin to your home screen.
+Site Scarf is a way to convert your favorite website into a web app.
 
 [This site scarf is for an awesome time tracker called Toggl you should now go try.](https://www.toggl.com/)
 
